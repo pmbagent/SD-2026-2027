@@ -2,7 +2,7 @@
 
 Este repositório contém os exercícios e tarefas da disciplina. Segue este guia para configurar a tua área de trabalho local, resolver as tarefas e submetê-las para avaliação
 
-> **Modelo de trabalho:** *fork* + *branch* por tarefa + *Pull Request*. Cada estudante trabalha na sua cópia pessoal do repositório e submete o trabalho através de um Pull Request para o repositório do docente.
+> **Modelo de trabalho:** *fork* + *branch* por tarefa + *Pull Request*. Cada estudante trabalha na sua cópia pessoal do repositório e submete o trabalho através de um Pull Request para o repositório do docente
 
 ## Índice
 
